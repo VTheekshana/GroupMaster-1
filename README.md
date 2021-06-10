@@ -1,4 +1,4 @@
-### Group Master 🇱🇰
+# Group Master 🇱🇰
 
 
 A simple group manager bot 🙂

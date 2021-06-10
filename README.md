@@ -12,7 +12,7 @@ If You don,t know how to deploy a bot as [Group Master](https://t.me/groupmaster
 
 # GroupMaster
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FNaviya2%2FGroupMaster3)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FNaviya2%2FGroupMaster)
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 

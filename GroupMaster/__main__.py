@@ -22,7 +22,7 @@ from GroupMaster.modules.connection import connected
 
 PM_START = """Hello {} 👋
 
-I am {} 🇱🇰
+I'm  {} 🇱🇰
 
 I can Manage your groups with more functions 😏
 

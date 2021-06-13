@@ -6,7 +6,7 @@ from sqlalchemy import Column, String, Boolean, UnicodeText, Integer, BigInteger
 from GroupMaster.modules.helper_funcs.msg_types import Types
 from GroupMaster.modules.sql import SESSION, BASE
 
-DEFAULT_WELCOME = "Hi {firstname} 👋, How are you?"
+DEFAULT_WELCOME = "Hi {first} 👋, How are you?"
 DEFAULT_GOODBYE = "Good Bye 👋"
 
 class Welcome(BASE):

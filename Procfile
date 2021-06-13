@@ -1,1 +1,1 @@
-worker:  python3 -m GroupMaster
+worker:  python3 -m haruka

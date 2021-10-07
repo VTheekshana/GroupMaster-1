@@ -22,13 +22,10 @@ from GroupMaster.modules.connection import connected
 
 PM_START = """Hello {} 👋
 
-I'm  {} 🇱🇰
 
-I can Manage your groups with more functions 😏
+Hey {}! My name is Levi.
+I can help manage your groups with useful features, feel free to add me to your groups!
 
-Click /help or Help button below to find out more about how to use me to my full potential 🙂
-
-Leo Projects 🇱🇰
 """
 
 

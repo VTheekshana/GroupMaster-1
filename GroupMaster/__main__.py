@@ -21,8 +21,6 @@ from GroupMaster.modules.translations.strings import tld, tld_help
 from GroupMaster.modules.connection import connected
 
 PM_START = """Hello {} 👋
-
-
 Hey {}! My name is Levi.
 I can help manage your groups with useful features, feel free to add me to your groups!
 
@@ -148,10 +146,10 @@ def send_start(bot, update):
     keyboard += [[InlineKeyboardButton(text="🛠 Reporting", callback_data="cntrl_panel_M"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
 
-    keyboard += [[InlineKeyboardButton(text="Updates Channel 🗣", url="t.me/new_ehi"),
-        InlineKeyboardButton(text="Support Group 👥", url="t.me/leosupportx")]]
+    keyboard += [[InlineKeyboardButton(text="Updates 📢", url="t.me/theekshana_Official"),
+        InlineKeyboardButton(text="Support 👥", url="t.me/theekshana_support")]]
     
-    keyboard += [[InlineKeyboardButton(text="➕ Add me to your group ➕", url="t.me/groupmasternaviya_bot?startgroup=true")]]
+    keyboard += [[InlineKeyboardButton(text="➕ Add me to your group ➕", url="t.me/thelevibot?startgroup=true")]]
 
     update.effective_message.reply_text(PM_START.format(escape_markdown(first_name), bot.first_name), reply_markup=InlineKeyboardMarkup(keyboard), disable_web_page_preview=True, parse_mode=ParseMode.MARKDOWN)
 

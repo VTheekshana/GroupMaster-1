@@ -21,8 +21,7 @@ from GroupMaster.modules.translations.strings import tld, tld_help
 from GroupMaster.modules.connection import connected
 
 PM_START = """
-🌺Hello {} 👋
-Hey Levi! My name is Levi.
+🌺Hello {} 👋 My name is Levi.
 I can help manage your groups with useful features, feel free to add me to your groups!
 """
 

@@ -21,10 +21,8 @@ from GroupMaster.modules.translations.strings import tld, tld_help
 from GroupMaster.modules.connection import connected
 
 PM_START = """
-🌺 Hey {}, My name is Levi! 
-I am an Anime themed group management bot.
-Build by weebs for weebs, I specialize in managing anime and similar themed groups.
-You can find my list of available commands with /help.
+🌺 Hey {}, My name is Levi! I am an Anime themed group management bot.
+Build by weebs for weebs, I specialize in managing anime and similar themed groups.You can find my list of available commands with /help.
 """
 
 

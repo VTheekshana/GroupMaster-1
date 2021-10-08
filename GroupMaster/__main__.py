@@ -20,10 +20,11 @@ from GroupMaster.modules.helper_funcs.misc import paginate_modules
 from GroupMaster.modules.translations.strings import tld, tld_help 
 from GroupMaster.modules.connection import connected
 
-PM_START = """Hey {}! 
-Hellow {}, I'm Levi 🍑
-I'm a Powerfull group manager bot With Cool Modules. Made My @TeamLevi hit /help to Find my list of available commands 
-
+PM_START = """
+🌺 Hey {}, My name is Levi! 
+I am an Anime themed group management bot.
+Build by weebs for weebs, I specialize in managing anime and similar themed groups.
+You can find my list of available commands with /help.
 """
 
 

@@ -22,8 +22,7 @@ from GroupMaster.modules.connection import connected
 
 PM_START = """Hey {}! 
 Hellow {}, I'm Levi 🍑
-I'm a Powerfull group manager bot With Cool Modules. Made My @TeamLevi
-hit /help to Find my list of available commands 
+I'm a Powerfull group manager bot With Cool Modules. Made My @TeamLevi hit /help to Find my list of available commands 
 
 """
 

@@ -96,6 +96,7 @@ __help__ = """
  - brb <reason>: same as the afk command - but not a command.
 
 When marked as AFK, any mentions will be replied to with a message to say that you're not available!
+- Projeck By @Theekshana_Official
 """
 
 __mod_name__ = "AFK"

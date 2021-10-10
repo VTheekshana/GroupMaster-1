@@ -806,7 +806,7 @@ This also works with /goodbye.
 If you want to add inline buttons just follow the example below😏
 To create a button linking to your rules, use this: [Rules](buttonurl://t.me/groupmasternaviya_bot?start=group_id).
 
-Leo Projects 🇱🇰
+Project By @Theekshana_Official 🇱🇰
 """
 
 __mod_name__ = "Greetings"

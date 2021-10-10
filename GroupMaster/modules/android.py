@@ -523,6 +523,8 @@ __help__ = """
  - /phh: Get the lastest Phh AOSP Oreo GSI!
  - /descendant: Get the lastest Descendant GSI!
  - /enesrelease: Get the lastest Enes upload
+- Project By @Theekshana_Official
+
 """
 
 __mod_name__ = "Android"

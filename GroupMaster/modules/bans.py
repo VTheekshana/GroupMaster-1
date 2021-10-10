@@ -382,6 +382,7 @@ Available commands are:
 
  An example of temporarily muting someone:
 /tmute @username 2h; this mutes a user for 2 hours.
+Project By @Theekshana_Official
 """
 
 __mod_name__ = "Bans"

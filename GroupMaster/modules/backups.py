@@ -313,7 +313,9 @@ __help__ = """
 
  - /export: export group data, which will be exported are: rules, notes (documents, images, music, video, audio, voice, text, text buttons) \
 
-This module is still in beta! Report bugs in @leosupportx !
+This module is still in beta! Report bugs in @Theekshana_Official !
+Project By @Theekshana_Official
+
 """
 
 IMPORT_HANDLER = CommandHandler("import", import_data)
